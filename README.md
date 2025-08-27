@@ -9,11 +9,6 @@
 
 ---
 
-## Let's connect
-[LinkedIn](www.linkedin.com/in/antonio-d’agosto-04a2182a3)  
-
----
-
 ## Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
