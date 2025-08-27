@@ -10,7 +10,7 @@
 ---
 
 ## Let's connect
-[LinkedIn](https://www.linkedin.com/in/your-link)  
+[LinkedIn](www.linkedin.com/in/antonio-d’agosto-04a2182a3)  
 
 ---
 
